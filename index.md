@@ -7,7 +7,6 @@
 ---
 
 ## 🧑‍💻 About Me
-
 [cite_start]I am a curious and highly motivated first-year engineering student specializing in Computer Engineering and Artificial Intelligence[cite: 4, 5]. [cite_start]My passion lies at the intersection of programming, computer systems, and AI, where I constantly seek out opportunities to build innovative and impactful technical solutions[cite: 4, 5]. 
 
 [cite_start]I thrive on transforming complex challenges into efficient systems and am deeply committed to reinforcing my technical repertoire through hands-on, practical projects and enriching collaborative experiences[cite: 6, 37]. [cite_start]Whether I am analyzing system architectures or developing interactive web interfaces, I am driven by a rigorous work ethic, a collaborative spirit, and a persistent desire to learn and adapt in the fast-paced tech landscape[cite: 28, 36, 37].
